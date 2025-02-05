@@ -19,5 +19,5 @@ For larger applications or projects requiring shared state across multiple compo
 
 In conclusion, the project demonstrates effective use of React's state management capabilities to create a cohesive and maintainable application. Each component is designed to handle its own state, ensuring clear separation of concerns and enhancing the overall maintainability of the codebase.
 
-RUN APP USING COMMAND: yarn start on:  http://localhost:3001/
-See live app on : 
+RUN APP USING COMMAND: yarn start on:  http://localhost:3000/
+See live app on : https://upliance-project-rz2q.vercel.app/
